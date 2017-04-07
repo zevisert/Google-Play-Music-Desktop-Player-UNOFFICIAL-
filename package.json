@@ -138,7 +138,7 @@
     "pre-commit": "^1.1.2",
     "pre-flight": "^1.0.2",
     "rcedit": "^0.7.0",
-    "react-addons-test-utils": "^15.3.1",
+    "react-addons-test-utils": "^15.5.0",
     "remap-istanbul": "^0.6.4",
     "run-sequence": "^1.1.5",
     "sinon": "^1.17.5",
